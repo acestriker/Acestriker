@@ -4,7 +4,7 @@
 
 ## Ellos!! 🦊 <div align="left">![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/632029144196186122?simple=true) ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/632029144196186122) ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/632029144196186122)<div align="right">![views](https://komarev.com/ghpvc/?username=acestriker&color=green)</div>
 
-**Ace | He/Him**  
+**Ace | He/They**  
 I create dumb little projects for myself lol. Aspiring dev; going through the motions with Javascript and Node.
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,nodejs,html,css)](https://skillicons.dev)
