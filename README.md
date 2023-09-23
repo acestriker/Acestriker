@@ -7,7 +7,7 @@
 **Ace | He/They**  
 I create dumb little projects for myself lol. Aspiring dev; going through the motions with Javascript and Node.
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,nodejs,next,git,react,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,nodejs,next,prisma,docker,git,react,css,html)](https://skillicons.dev)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L3BEWB4)
 
